@@ -1,0 +1,84 @@
+description,changed_fields,num_changed_fields,new_pred,new_prob_>50K,success,actionability_note
+Change occupation to Exec-managerial,occupation,1,1,0.6628417496756547,True,"Partly actionable, but depends on labor market access, training, and hiring opportunity."
+Increase hours_per_week to 60,hours_per_week,1,1,0.6455975498069138,True,"Potentially actionable, but may depend on job availability, health, and caregiving responsibilities."
+Change workclass to Federal-gov,workclass,1,1,0.6322311903827976,True,"Partly actionable, but not fully under the individual's control."
+Change occupation to Tech-support,occupation,1,1,0.6308937188196657,True,"Partly actionable, but depends on labor market access, training, and hiring opportunity."
+Change occupation to Protective-serv,occupation,1,1,0.6239473419162547,True,"Partly actionable, but depends on labor market access, training, and hiring opportunity."
+Increase hours_per_week to 55,hours_per_week,1,1,0.6105085094820004,True,"Potentially actionable, but may depend on job availability, health, and caregiving responsibilities."
+Change occupation to Prof-specialty,occupation,1,1,0.6079648853422913,True,"Partly actionable, but depends on labor market access, training, and hiring opportunity."
+Increase hours_per_week to 50,hours_per_week,1,1,0.5742364839314769,True,"Potentially actionable, but may depend on job availability, health, and caregiving responsibilities."
+Change workclass to Self-emp-inc,workclass,1,1,0.5582218790153354,True,"Partly actionable, but not fully under the individual's control."
+Change occupation to Sales,occupation,1,1,0.5416952470682234,True,"Partly actionable, but depends on labor market access, training, and hiring opportunity."
+Increase hours_per_week to 45,hours_per_week,1,1,0.5371474904279674,True,"Potentially actionable, but may depend on job availability, health, and caregiving responsibilities."
+Increase education to Doctorate,"education, education_num",2,1,0.8290622694887468,True,"Long-term actionable, but costly and not immediately available to everyone."
+Increase education to Prof-school,"education, education_num",2,1,0.8210376584227594,True,"Long-term actionable, but costly and not immediately available to everyone."
+Change occupation to Exec-managerial and hours_per_week to 60,"occupation, hours_per_week",2,1,0.7819652364211261,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Tech-support and hours_per_week to 60,"occupation, hours_per_week",2,1,0.7571697242360398,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Exec-managerial and hours_per_week to 55,"occupation, hours_per_week",2,1,0.7552594741756072,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Protective-serv and hours_per_week to 60,"occupation, hours_per_week",2,1,0.7516643637267937,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Prof-specialty and hours_per_week to 60,"occupation, hours_per_week",2,1,0.738837968291027,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Tech-support and hours_per_week to 55,"occupation, hours_per_week",2,1,0.7284814525522674,True,"Partly actionable, but depends on job access and ability to work more hours."
+Increase education to Masters,"education, education_num",2,1,0.7283271940284755,True,"Long-term actionable, but costly and not immediately available to everyone."
+Change occupation to Exec-managerial and hours_per_week to 50,"occupation, hours_per_week",2,1,0.7264270633469537,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Protective-serv and hours_per_week to 55,"occupation, hours_per_week",2,1,0.7225639999092611,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Prof-specialty and hours_per_week to 55,"occupation, hours_per_week",2,1,0.7088168328258824,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Tech-support and hours_per_week to 50,"occupation, hours_per_week",2,1,0.6977568235848408,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Exec-managerial and hours_per_week to 45,"occupation, hours_per_week",2,1,0.6955671128278076,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Protective-serv and hours_per_week to 50,"occupation, hours_per_week",2,1,0.6914533726971888,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Sales and hours_per_week to 60,"occupation, hours_per_week",2,1,0.6831619327389641,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Prof-specialty and hours_per_week to 50,"occupation, hours_per_week",2,1,0.6768540664055644,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Tech-support and hours_per_week to 45,"occupation, hours_per_week",2,1,0.6651535311840662,True,"Partly actionable, but depends on job access and ability to work more hours."
+Increase education to Bachelors,"education, education_num",2,1,0.663330207788137,True,"Long-term actionable, but costly and not immediately available to everyone."
+Change occupation to Protective-serv and hours_per_week to 45,"occupation, hours_per_week",2,1,0.6585029072736472,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Sales and hours_per_week to 55,"occupation, hours_per_week",2,1,0.649774496627859,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Prof-specialty and hours_per_week to 45,"occupation, hours_per_week",2,1,0.6431491356944361,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Sales and hours_per_week to 50,"occupation, hours_per_week",2,1,0.6148522946774246,True,"Partly actionable, but depends on job access and ability to work more hours."
+Change occupation to Sales and hours_per_week to 45,"occupation, hours_per_week",2,1,0.5787056421415822,True,"Partly actionable, but depends on job access and ability to work more hours."
+Increase education to Assoc-acdm,"education, education_num",2,1,0.5009311111006833,True,"Long-term actionable, but costly and not immediately available to everyone."
+Increase education to Doctorate and change occupation to Exec-managerial,"education, education_num, occupation",3,1,0.9052018878769683,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Prof-school and change occupation to Exec-managerial,"education, education_num, occupation",3,1,0.9003218805405584,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Doctorate and hours_per_week to 60,"education, education_num, hours_per_week",3,1,0.8984543846015112,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Prof-school and hours_per_week to 60,"education, education_num, hours_per_week",3,1,0.8932679855808037,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Doctorate and change occupation to Tech-support,"education, education_num, occupation",3,1,0.892494411986228,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Doctorate and change occupation to Protective-serv,"education, education_num, occupation",3,1,0.8896097856797603,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Prof-school and change occupation to Tech-support,"education, education_num, occupation",3,1,0.8870418809597556,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Prof-school and change occupation to Protective-serv,"education, education_num, occupation",3,1,0.8840299611460816,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Doctorate and hours_per_week to 55,"education, education_num, hours_per_week",3,1,0.883898235485208,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Doctorate and change occupation to Prof-specialty,"education, education_num, occupation",3,1,0.8827972635046415,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Prof-school and hours_per_week to 55,"education, education_num, hours_per_week",3,1,0.8780692820513293,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Prof-school and change occupation to Prof-specialty,"education, education_num, occupation",3,1,0.8769207319705927,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Doctorate and hours_per_week to 50,"education, education_num, hours_per_week",3,1,0.8675630924566894,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Prof-school and hours_per_week to 50,"education, education_num, hours_per_week",3,1,0.861042953826128,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Doctorate and change occupation to Sales,"education, education_num, occupation",3,1,0.8516490581845549,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Doctorate and hours_per_week to 45,"education, education_num, hours_per_week",3,1,0.8493214402235341,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Prof-school and change occupation to Sales,"education, education_num, occupation",3,1,0.8444858811896446,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Prof-school and hours_per_week to 45,"education, education_num, hours_per_week",3,1,0.8420667154157411,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Masters and change occupation to Exec-managerial,"education, education_num, occupation",3,1,0.8407159208244152,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Masters and hours_per_week to 60,"education, education_num, hours_per_week",3,1,0.8302392567990866,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Masters and change occupation to Tech-support,"education, education_num, occupation",3,1,0.8210729039504507,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Masters and change occupation to Protective-serv,"education, education_num, occupation",3,1,0.8166655359804745,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Masters and hours_per_week to 55,"education, education_num, hours_per_week",3,1,0.8079944469837521,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Masters and change occupation to Prof-specialty,"education, education_num, occupation",3,1,0.8063314026345894,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Bachelors and change occupation to Exec-managerial,"education, education_num, occupation",3,1,0.7950408639617639,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Masters and hours_per_week to 50,"education, education_num, hours_per_week",3,1,0.7835945360355038,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Bachelors and hours_per_week to 60,"education, education_num, hours_per_week",3,1,0.7823377857710971,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Bachelors and change occupation to Tech-support,"education, education_num, occupation",3,1,0.7712974440033783,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Bachelors and change occupation to Protective-serv,"education, education_num, occupation",3,1,0.766013400858445,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Masters and change occupation to Sales,"education, education_num, occupation",3,1,0.7603774330206083,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Masters and hours_per_week to 45,"education, education_num, hours_per_week",3,1,0.7570263282612822,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Bachelors and hours_per_week to 55,"education, education_num, hours_per_week",3,1,0.7556633966656968,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Bachelors and change occupation to Prof-specialty,"education, education_num, occupation",3,1,0.7536852657737696,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Bachelors and hours_per_week to 50,"education, education_num, hours_per_week",3,1,0.7268613619936377,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Bachelors and change occupation to Sales,"education, education_num, occupation",3,1,0.6998887658781128,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Bachelors and hours_per_week to 45,"education, education_num, hours_per_week",3,1,0.6960299020373025,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Assoc-acdm and change occupation to Exec-managerial,"education, education_num, occupation",3,1,0.6639924230398743,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Assoc-acdm and hours_per_week to 60,"education, education_num, hours_per_week",3,1,0.6467757133084571,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Assoc-acdm and change occupation to Tech-support,"education, education_num, occupation",3,1,0.6320929074387794,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Assoc-acdm and change occupation to Protective-serv,"education, education_num, occupation",3,1,0.6251556898289579,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Assoc-acdm and hours_per_week to 55,"education, education_num, hours_per_week",3,1,0.6117331683952862,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Assoc-acdm and change occupation to Prof-specialty,"education, education_num, occupation",3,1,0.6091924223848004,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Assoc-acdm and hours_per_week to 50,"education, education_num, hours_per_week",3,1,0.5754958900978646,True,Possible but difficult; requires both education access and ability to work more hours.
+Increase education to Assoc-acdm and change occupation to Sales,"education, education_num, occupation",3,1,0.5429743007763206,True,"Long-term possible, but may be expensive and unequal across social groups."
+Increase education to Assoc-acdm and hours_per_week to 45,"education, education_num, hours_per_week",3,1,0.5384284214523046,True,Possible but difficult; requires both education access and ability to work more hours.
+Change workclass to Local-gov,workclass,1,0,0.4458396049029041,False,"Partly actionable, but not fully under the individual's control."
+Change workclass to State-gov,workclass,1,0,0.419913169700638,False,"Partly actionable, but not fully under the individual's control."

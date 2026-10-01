@@ -1,0 +1,14 @@
+original_feature,mean_abs_shap,possible_protected_or_proxy
+marital_status,1.4922420509161565,True
+occupation,0.7742119158645145,True
+education,0.7738421620942788,False
+relationship,0.6272218730863562,True
+capital_gain,0.4351331538003044,False
+sex,0.395816317593663,True
+age,0.2894805781691424,False
+hours_per_week,0.233775334814759,True
+workclass,0.23333556795435026,True
+native_country,0.1552179829619692,False
+capital_loss,0.08713081148421667,False
+race,0.058868957163816606,False
+fnlwgt,0.04636279817385665,False

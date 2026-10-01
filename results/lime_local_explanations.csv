@@ -1,0 +1,21 @@
+example,feature,weight
+favorable,capital_gain > 0.00,0.6654357022557371
+favorable,workclass_Never-worked <= 0.00,0.5043788056023342
+favorable,native_country_Cambodia <= 0.00,-0.38456370515598276
+favorable,workclass_Without-pay <= 0.00,0.23160163101342418
+favorable,education_Preschool <= 0.00,0.17137795471662093
+favorable,native_country_El-Salvador <= 0.00,0.1401625993341706
+favorable,native_country_Yugoslavia <= 0.00,-0.13489155025701013
+favorable,native_country_Dominican-Republic <= 0.00,0.1341058031223361
+favorable,native_country_South <= 0.00,0.09011229495936889
+favorable,native_country_Columbia <= 0.00,0.02166518907029254
+unfavorable,capital_gain <= 0.00,-0.6671546863684994
+unfavorable,marital_status_Married-AF-spouse <= 0.00,-0.297840211279667
+unfavorable,relationship_Wife <= 0.00,-0.18279874492024575
+unfavorable,native_country_Columbia <= 0.00,0.14576164075770323
+unfavorable,native_country_Canada > 0.00,0.14324652523305723
+unfavorable,education_Preschool <= 0.00,0.14026450318101794
+unfavorable,occupation_Priv-house-serv <= 0.00,0.13521970254115567
+unfavorable,native_country_Cambodia <= 0.00,-0.11246353662528265
+unfavorable,workclass_Without-pay <= 0.00,0.08071283567558094
+unfavorable,occupation_Armed-Forces <= 0.00,0.058772232311712594

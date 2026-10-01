@@ -1,0 +1,35 @@
+{
+  "dataset_sha256": "5b00264637dbfec36bdeaab5676b0b309ff9eb788d63554ca0a249491c86603d",
+  "n_rows": 32561,
+  "n_train": 26048,
+  "n_test": 6513,
+  "n_encoded_features": 108,
+  "seed": 42,
+  "decision_threshold": 0.5,
+  "missing_value_policy": "Keep ? as Unknown",
+  "category_vocabulary": "One-hot vocabulary established before the split to preserve the baseline",
+  "scaler": "StandardScaler fitted only on training rows",
+  "model": "LogisticRegression(C=1.0, solver=lbfgs, max_iter=5000)",
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.8.0",
+    "matplotlib": "3.10.8",
+    "seaborn": "0.13.2",
+    "shap": "0.52.0",
+    "lime": "0.2.0.1"
+  },
+  "python": "3.12.14",
+  "local_examples": {
+    "favorable": {
+      "dataset_index": 16682,
+      "probability": 0.9941183125041692
+    },
+    "unfavorable": {
+      "dataset_index": 30969,
+      "probability": 0.499642822142321
+    }
+  },
+  "recourse_successes": 81,
+  "recourse_candidates": 83
+}
